@@ -1,0 +1,1 @@
+globals().__setitem__("l", list(map(int, input().split()))) or print(int((l[0] * 3 + l[1]) / 2))
